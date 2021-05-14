@@ -56,6 +56,7 @@ The below images show Oahu's weather stations' statistical overview for temperat
 ![Historical temperature overview for December (degrees Farenheit)](https://github.com/joshuanallen/surfs_up/blob/efe515cc327223d8e260a60a7ba9c73429862f17/analysis/Oahu_historical_temp_overview_Dec.png)
 
 **Picture 2.2: Historical precipitation overview for December (inches)**
+
 ![Historical precipitation overview for December (inches)](https://github.com/joshuanallen/surfs_up/blob/efe515cc327223d8e260a60a7ba9c73429862f17/analysis/Oahu_historical_prcp_overview_dec.png)
 
 
@@ -70,7 +71,7 @@ Our analysis shows the following **temperature trends** for the months of June a
 3. December's standard deviation of temperature is 0.5 degrees higher than June
     - *Temperatures fluctuate more widely in December therefore making ice cream-consuming weather less predictible.*
 
-Our analysis shows the following **precipitation** trends for the months of June and December:
+Our analysis shows the following **precipitation trends** for the months of June and December:
 
 1. 75% of the days in June receive less than 0.12 inches of rain and 75% of the days in December receive 0.15 inches of rain
     - *Most days on Oahu have little to no rain*
